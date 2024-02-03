@@ -1,6 +1,6 @@
 # Simple Python Flask Multi-Page Dockerized Image Application
 
-Build the image using the following command
+Build the image using the following command 12
 
 ```bash
 $ docker build -t image-app:latest .
